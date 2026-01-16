@@ -1,1 +1,1 @@
-# JavaFXBrowser
+# A simple WebBrowseer using JavaFx  
